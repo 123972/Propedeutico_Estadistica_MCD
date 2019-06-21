@@ -2,5 +2,5 @@
 
 Propedéutico de la MCD en el ITAM
 
-En la carpeta [Proyectos](/Proyectos.ipynb) se encuentran los proyectos realizados durante el curso.
+En la carpeta [Proyectos](/Proyectos) se encuentran los proyectos realizados durante el curso.
 
